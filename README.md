@@ -16,13 +16,17 @@ Row order does not matter. You don't need to delete the final two rows (yeasts) 
 2. python script.py <data_type> <sample_data_file> <dna_extraction_kit> where:
    
 **<data_type>** is either "shotgun" or "amplicon"
+
 **<sample_data_file>** - directory of the provided pre-formatted OTU file
+
 **<dna_extraction_kit>** - any string name of choice
 
 **Output:**
+
 It is printed in the terminal. You can redirect the output to a separate file. Each column is considered a separate sample and the name is printed at the end.
 
 **Example:** 
+
 $ python calc-RMSE-final.py amplicon Example-input-format.tsv Example-name
 Should print:
 Samples name: Example-name
