@@ -1,13 +1,15 @@
 # MIQ-calc-from-OTU-tables
-MIQ score calculator based on the original miqScore16SPublic tool from Zymo that accepts OTU tables generated from different clustering approaches
+MIQ score calculator for both 16S and shotgun based on the original miqScore16SPublic tool from Zymo (https://github.com/Zymo-Research/miqScore16SPublic) that accepts any taxonomic count table.
 
-This calculator only works with ZymoBIOMICS Microbial Community Standard (Cat. No D6300). You can modify the script's expected data for any other mock type.
+This calculator only works with ZymoBIOMICS Microbial Community Standard (Cat. No D6300), but you can modify the script's expected data for any other mock type.
 
-Formatting the input File:
+**Formatting the input file:**
+
 Use the Example-input-format.tsv file in the directory. Basically, it is the extracted .qza file from Qiime2 and then the biom was converted to tsv.
 1. Make a copy of the file and rename it. 
 2. Copy and paste your count data from the Qiime2 extracted tables or any other. You can add as many columns (samples) as you wish.
 3. ***IMPORTANT***. The column #OTU ID must be identical to the one in the script or Example-input-format.tsv! if you submit a different OTU table, make sure to copy-paste the same exact taxonomic ranks. The accuracy or the level (genus/phylum) of your local taxonomic assignments is not assessed here, rather the composition is what matters.
+   
 In the case where in your OTU table you have more than 8 (for 16S) or 10 (shotgun) microorganisms, you should consider omitting the falsely identified OTUs/bacteria. Changing the expected data within the script to expect fewer OTUs (<8 for 16S or <10 for shotgun) yields varying and unverified results.
 Row order does not matter. You don't need to delete the final two rows (yeasts) if you submit only 16S rRNA derived counts. Leave them blank. You can delete the columns from the example.
 
@@ -23,7 +25,7 @@ Row order does not matter. You don't need to delete the final two rows (yeasts) 
 
 **Output:**
 
-It is printed in the terminal. You can redirect the output to a separate file. Each column is considered a separate sample and the name is printed at the end.
+It is printed in the terminal. You can redirect it to a separate file. Each column is considered a separate sample and the name is also printed.
 
 **Example:** 
 
