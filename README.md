@@ -1,5 +1,5 @@
 # MIQ-calc-from-OTU-tables
-MIQ score calculator for both 16S and shotgun based on the original miqScore16SPublic tool from Zymo (https://github.com/Zymo-Research/miqScore16SPublic) that accepts any taxonomic count table.
+MIQ score calculator for both 16S and shotgun metagenomics mock samples based on the original miqScore16SPublic tool from Zymo (https://github.com/Zymo-Research/miqScore16SPublic) that accepts any taxonomic count table.
 
 This calculator only works with ZymoBIOMICS Microbial Community Standard (Cat. No D6300), but you can modify the script's expected data for any other mock type.
 
