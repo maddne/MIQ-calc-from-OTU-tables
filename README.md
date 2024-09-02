@@ -28,7 +28,9 @@ It is printed in the terminal. You can redirect the output to a separate file. E
 **Example:** 
 
 $ python calc-RMSE-final.py amplicon Example-input-format.tsv Example-name
+
 Should print:
+
 Samples name: Example-name
 
 MIQ score for EZNA-Com: 72, RMSE: 27.90
@@ -49,4 +51,5 @@ MIQ score for Zymo-Com-62C: 61, RMSE: 38.40
 
 or 
 $ python calc-RMSE-final.py amplicon Example-input-format.tsv Example-name >> example.tsv
+
 should create an example.tsv file
