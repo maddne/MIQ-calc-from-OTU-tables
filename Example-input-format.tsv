@@ -1,0 +1,11 @@
+#OTU ID	EZNA-Com	EurX-Com	FastSpin-Com	In-house-LPA-Com	Zymo-Com	Zymo-Com-55C	Zymo-Com-58C	Zymo-Com-62C
+Bacteria;Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus_subtilis	1980	4670	3847	3180	6993	1260	6487	1555
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus_fermentum	986	2361	2688	1979	5309	1407	5445	1184
+Bacteria;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia-coli	1828	3777	2342	2280	5092	892	4502	1519
+Bacteria;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella-enterica	1524	3132	2074	1968	3885	480	3289	1007
+Bacteria;Bacteria;Firmicutes;Bacilli;Bacillales;Listeriaceae;Listeria;Listeria_monocytogenes	1022	2289	1831	2139	1807	522	2313	776
+Bacteria;Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus_aureus	1657	1878	2046	2055	1465	364	1612	503
+Bacteria;Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus_faecalis	1327	2602	1303	846	1888	536	1662	597
+Bacteria;Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas-aeruginosa	243	495	291	335	667	129	654	148
+Eukaryota;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetaceae;Saccharomyces;Saccharomyces_cerevisiae								
+Eukaryota;Fungi;Basidiomycota;Tremellomycetes;Tremellales;Cryptococcaceae;Cryptococcus;Cryptococcus_neoformans								
