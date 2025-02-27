@@ -1,12 +1,12 @@
-#OTU ID	Example
-Bacteria;Verrucomicrobiota;Verrucomicrobiae;Verrucomicrobiales;Akkermansiaceae;Akkermansia;Akkermansia-muciniphila	1680.752352
-Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides-fragilis	12030.57445
-Bacteria;Actinomycetota;Actinomycetes;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium-adolescentis	3387.371223
-Bacteria;Bacillota;Clostridia;Eubacteriales;Peptostreptococcaceae;Clostridioides;Clostridioides-difficile	3468.731275
-Bacteria;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia-coli	4306.387791
-Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Faecalibacterium;Faecalibacterium-prausnitzii	10187.80692
-Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;Fusobacterium;Fusobacterium-nucleatum	5908.736497
-Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus-fermentum	1938.097121
-Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;Prevotella-corporis	5008.872766
-Bacteria;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Roseburia;Roseburia-hominis	3483.27124
-Bacteria;Bacillota;Negativicutes;Veillonellales;Veillonellaceae;Veillonella;Veillonella-rogosae	14453.73616
+#OTU ID	20%-variation-Best	50%-variation-Optimal	150%-variations-suboptimal	300%-variations-suboptimal	Example
+Bacteria;Verrucomicrobiota;Verrucomicrobiae;Verrucomicrobiales;Akkermansiaceae;Akkermansia;Akkermansia-muciniphila	468	331	2709	4900	1680.752352
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides-fragilis	6980	7061	14107	15603	12030.57445
+Bacteria;Actinomycetota;Actinomycetes;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium-adolescentis	4720	4654	9795	8167	3387.371223
+Bacteria;Bacillota;Clostridia;Eubacteriales;Peptostreptococcaceae;Clostridioides;Clostridioides-difficile	1260	1360	2731	3675	3468.731275
+Bacteria;Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia-coli	7680	7514	10122	14399	4306.387791
+Bacteria;Bacillota;Clostridia;Oscillospirales;Ruminococcaceae;Faecalibacterium;Faecalibacterium-prausnitzii	10560	10821	10111	11990	10187.80692
+Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;Fusobacterium;Fusobacterium-nucleatum	4720	4584	3372	3656	5908.736497
+Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus-fermentum	4308	4362	6367	7462	1938.097121
+Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;Prevotella-corporis	2910	2896	4413	4362	5008.872766
+Bacteria;Bacillota;Clostridia;Eubacteriales;Lachnospiraceae;Roseburia;Roseburia-hominis	6048	6050	8909	7023	3483.27124
+Bacteria;Bacillota;Negativicutes;Veillonellales;Veillonellaceae;Veillonella;Veillonella-rogosae	10338	9882	1492	7000	14453.73616
